@@ -7,7 +7,7 @@
 
     <link rel="stylesheet" href="{{asset('css/styles.css')}}">
 </head>
-<body class="bg-blue-950 text-white min-h-screen flex flex-col justify-center items-center">
+<body class="bg-blue-950 bg-gradient-to-bl from-blue-950 to-purple-900 text-white min-h-screen flex flex-col justify-center items-center">
     <header class="font-bold text-2xl">Welcome to the HALT stack </header>
     <div>For the giga chads, no cringe bundlers here.</div>
 
